@@ -1,0 +1,18 @@
+{
+    "name": "koroalen/symfony-telegram-bot",
+    "description": "Symfony Telegram Bot Messenger",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Koroalen\\SymfonyTelegramBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Korobkov",
+            "email": "sdalex@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
